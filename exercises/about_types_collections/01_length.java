@@ -1,4 +1,6 @@
-class exercise{
+package about_types_collections;
+
+class e1{
 
     public static void main(String[] args){
         String[] planets = {"mercury","venus","Earth","Mars"};
